@@ -1,0 +1,330 @@
+[
+ {
+  "id": "c7b02d24-d791-5235-860c-fecc28c5033e",
+  "title": "Upper A",
+  "folder_id": 1123,
+  "updated_at": "2026-09-20T10:05:00.000Z",
+  "created_at": "2026-09-20T10:05:00.000Z",
+  "exercises": [
+   {
+    "index": 0,
+    "title": "Bench Press (Barbell)",
+    "rest_seconds": 180,
+    "notes": null,
+    "exercise_template_id": "79D0BB3A",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "warmup",
+      "weight_kg": 40,
+      "reps": 10,
+      "rep_range": null,
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": 80,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 2,
+      "type": "normal",
+      "weight_kg": 80,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 3,
+      "type": "normal",
+      "weight_kg": 80,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "title": "Bent Over Row (Barbell)",
+    "rest_seconds": 120,
+    "notes": null,
+    "exercise_template_id": "55E6546F",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "normal",
+      "weight_kg": 60,
+      "reps": null,
+      "rep_range": {
+       "start": 6,
+       "end": 8
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": 60,
+      "reps": null,
+      "rep_range": {
+       "start": 6,
+       "end": 8
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 2,
+      "type": "normal",
+      "weight_kg": 60,
+      "reps": null,
+      "rep_range": {
+       "start": 6,
+       "end": 8
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "title": "Overhead Press (Barbell)",
+    "rest_seconds": 120,
+    "notes": null,
+    "exercise_template_id": "7B8D84E8",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "normal",
+      "weight_kg": 45,
+      "reps": null,
+      "rep_range": {
+       "start": 5,
+       "end": 7
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": 45,
+      "reps": null,
+      "rep_range": {
+       "start": 5,
+       "end": 7
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 2,
+      "type": "normal",
+      "weight_kg": 45,
+      "reps": null,
+      "rep_range": {
+       "start": 5,
+       "end": 7
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dfe7c626-866f-5f56-82e1-2885f738321e",
+  "title": "Lower A",
+  "folder_id": 1123,
+  "updated_at": "2026-09-20T10:06:00.000Z",
+  "created_at": "2026-09-20T10:06:00.000Z",
+  "exercises": [
+   {
+    "index": 0,
+    "title": "Squat (Barbell)",
+    "rest_seconds": 180,
+    "notes": null,
+    "exercise_template_id": "D04AC939",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "warmup",
+      "weight_kg": 60,
+      "reps": 10,
+      "rep_range": null,
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": 100,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 2,
+      "type": "normal",
+      "weight_kg": 100,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 3,
+      "type": "normal",
+      "weight_kg": 100,
+      "reps": null,
+      "rep_range": {
+       "start": 4,
+       "end": 6
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "title": "Leg Press (Machine)",
+    "rest_seconds": 120,
+    "notes": null,
+    "exercise_template_id": "C7973E0E",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "normal",
+      "weight_kg": 160,
+      "reps": null,
+      "rep_range": {
+       "start": 8,
+       "end": 12
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": 160,
+      "reps": null,
+      "rep_range": {
+       "start": 8,
+       "end": 12
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 2,
+      "type": "normal",
+      "weight_kg": 160,
+      "reps": null,
+      "rep_range": {
+       "start": 8,
+       "end": 12
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d9696b17-f730-5644-a468-3aa159b0af4f",
+  "title": "Mobility",
+  "folder_id": null,
+  "updated_at": "2026-08-01T09:00:00.000Z",
+  "created_at": "2026-08-01T09:00:00.000Z",
+  "exercises": [
+   {
+    "index": 0,
+    "title": "Plank",
+    "rest_seconds": 30,
+    "notes": null,
+    "exercise_template_id": "C6C9B8A0",
+    "superset_id": null,
+    "sets": [
+     {
+      "index": 0,
+      "type": "normal",
+      "weight_kg": null,
+      "reps": null,
+      "rep_range": {
+       "start": 1,
+       "end": 1
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     },
+     {
+      "index": 1,
+      "type": "normal",
+      "weight_kg": null,
+      "reps": null,
+      "rep_range": {
+       "start": 1,
+       "end": 1
+      },
+      "distance_meters": null,
+      "duration_seconds": null,
+      "custom_metric": null
+     }
+    ]
+   }
+  ]
+ }
+]

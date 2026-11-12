@@ -1,0 +1,11 @@
+{
+ "data": {
+  "id": "f62bcbab-18c3-564c-a321-1cacaf535f17",
+  "username": "synthetic_lifter",
+  "name": "Test Lifter",
+  "url": "https://hevy.com/user/synthetic_lifter",
+  "weight_unit": "kg",
+  "distance_unit": "kilometers",
+  "is_pro": true
+ }
+}

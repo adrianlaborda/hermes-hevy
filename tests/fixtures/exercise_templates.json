@@ -1,0 +1,191 @@
+[
+ {
+  "id": "79D0BB3A",
+  "title": "Bench Press (Barbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "chest",
+  "secondary_muscle_groups": [
+   "triceps",
+   "shoulders"
+  ],
+  "equipment": "barbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "D04AC939",
+  "title": "Squat (Barbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "quadriceps",
+  "secondary_muscle_groups": [
+   "glutes",
+   "hamstrings"
+  ],
+  "equipment": "barbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "C6272009",
+  "title": "Deadlift (Barbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "hamstrings",
+  "secondary_muscle_groups": [
+   "glutes",
+   "lower_back"
+  ],
+  "equipment": "barbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "7B8D84E8",
+  "title": "Overhead Press (Barbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "shoulders",
+  "secondary_muscle_groups": [
+   "triceps"
+  ],
+  "equipment": "barbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "1B2B1E7C",
+  "title": "Pull Up",
+  "type": "bodyweight_reps",
+  "primary_muscle_group": "lats",
+  "secondary_muscle_groups": [
+   "biceps"
+  ],
+  "equipment": "none",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "55E6546F",
+  "title": "Bent Over Row (Barbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "upper_back",
+  "secondary_muscle_groups": [
+   "lats",
+   "biceps"
+  ],
+  "equipment": "barbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "6A6C31A5",
+  "title": "Lat Pulldown (Cable)",
+  "type": "weight_reps",
+  "primary_muscle_group": "lats",
+  "secondary_muscle_groups": [
+   "biceps"
+  ],
+  "equipment": "machine",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "37FCC2BB",
+  "title": "Bicep Curl (Dumbbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "biceps",
+  "secondary_muscle_groups": [],
+  "equipment": "dumbbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "93A552C6",
+  "title": "Triceps Pushdown",
+  "type": "weight_reps",
+  "primary_muscle_group": "triceps",
+  "secondary_muscle_groups": [],
+  "equipment": "machine",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "C7973E0E",
+  "title": "Leg Press (Machine)",
+  "type": "weight_reps",
+  "primary_muscle_group": "quadriceps",
+  "secondary_muscle_groups": [
+   "glutes"
+  ],
+  "equipment": "machine",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "2B4B7310",
+  "title": "Romanian Deadlift (Dumbbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "hamstrings",
+  "secondary_muscle_groups": [
+   "glutes"
+  ],
+  "equipment": "dumbbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "C6C9B8A0",
+  "title": "Plank",
+  "type": "duration",
+  "primary_muscle_group": "abdominals",
+  "secondary_muscle_groups": [],
+  "equipment": "none",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "07B38369",
+  "title": "Incline Bench Press (Dumbbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "chest",
+  "secondary_muscle_groups": [
+   "shoulders",
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "422B08F1",
+  "title": "Lateral Raise (Dumbbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "shoulders",
+  "secondary_muscle_groups": [],
+  "equipment": "dumbbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "A1B2C3D4",
+  "title": "Bench Press (Dumbbell)",
+  "type": "weight_reps",
+  "primary_muscle_group": "chest",
+  "secondary_muscle_groups": [
+   "triceps"
+  ],
+  "equipment": "dumbbell",
+  "is_custom": false,
+  "thumbnail_url": null
+ },
+ {
+  "id": "f2e1a9c0-1111-4c1e-9a10-6a1b2c3d4e5f",
+  "title": "Landmine Press",
+  "type": "weight_reps",
+  "primary_muscle_group": "shoulders",
+  "secondary_muscle_groups": [
+   "chest"
+  ],
+  "equipment": "barbell",
+  "is_custom": true,
+  "thumbnail_url": null
+ }
+]
